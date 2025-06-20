@@ -7,7 +7,7 @@ This is an ongoing research project. It was intended for internal lab usage. It 
 In this study, we generated a large, population-wide RNA-seq dataset from 600 hybrids and their 200 inbred parents. 
 Through integrative analysis, our results revealed that, under an Omnigenic model — in which all expressed genes contribute to traits within an interconnected network — Fisher’s modifier hypothesis aligns well with the observed patterns. Specifically, heterosis arises not from the inheritance of a single modified gene but through the coordinated regulation of hundreds of phenotype-associated core genes. 
 
-# Project Guideline
+## Project Guideline
 
 - `01data`: 
   - the processed intermediate data
